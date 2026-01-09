@@ -1,0 +1,9 @@
+tests/__pycache__/
+.vscode
+
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gz
+._*
+.venv/
